@@ -1,2 +1,2 @@
 # cmis-week8-animations
-[Watch the video](steel_spring.mp4)
+![demo](traction_stop_rubber.gif)
